@@ -9,9 +9,6 @@ from ipywidgets import interactive
 # Bloc [5] Función para actualizar y mostrar el gráfico
 def update_plot(hidden_layer_size):
 
-    # Generar datos sintéticos (círculo)
-    # X, y = make_circles(n_samples=300, noise=0.1, factor=0.5, random_state=0)
-
     # Crear un clasificador Perceptrón Multicapa (MLP)
     clf = MLPClassifier(
         hidden_layer_sizes=(hidden_layer_size,),
