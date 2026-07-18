@@ -13,7 +13,7 @@ Los siguientes archivos corresponden a las demostraciones realizadas en las clas
 | 2.4 - Demostración: Introducción al Jupyter Notebooks | `demo_intro_al_jupyter_notebooks.py` |
 | 2.5 - Demostración básica de ML (Parte 1) | `demo_basica_de_ml_parte_1.py` |
 | 2.6 - Demostración básica de ML (Parte 2) | `demo_basica_de_ml_parte_2.py` |
-| 3.4 - Demo: Clasificación con Perceptrón multicapa | `demo_clasificacion_con_perceptron_multicapa.py` |
+| 3.4 - Demo: Clasificación con Perceptrón multicapa | `demo_pt1_clasificacion_con_perceptron_multicapa.py` `demo_pt2_clasificacion_con_perceptron_multicapa.py`|
 
 ## Objetivo
 
