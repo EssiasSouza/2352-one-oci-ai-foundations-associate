@@ -1,6 +1,6 @@
 # 2352 - ONE - OCI AI Foundations Associate
 
-Bienvenido al repositorio oficial de apoyo del curso **2352 - ONE - OCI AI Foundations Associate**, disponible en **Alura**.
+Bienvenido al repositorio oficial de apoyo del curso **ONE - OCI AI Foundations Associate**, disponible en **Alura**.
 
 Este repositorio reúne los scripts utilizados durante las demostraciones prácticas del curso para facilitar el seguimiento de las clases. Puedes utilizarlos para copiar y pegar el código durante las demostraciones, evitando tener que escribirlo manualmente mientras acompañas el contenido.
 
